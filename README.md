@@ -1,5 +1,7 @@
 # Real-Time Automatic Number Plate Recognition (ANPR)
 
+![Pipeline](pipeline.jpg)
+
 This project is a real-time Automatic Number Plate Recognition (ANPR) system designed to detect and track vehicle license plates. It uses **YOLO** for object detection, **AWS Kinesis** for video streaming, and AWS services like **S3**, **DynamoDB**, and **Lambda** for data storage, processing, and visualization. This system is scalable and reliable, making it ideal for applications in traffic monitoring, toll collection, and vehicle tracking.
 
 ---
